@@ -3,7 +3,7 @@ import requests
 import sys
 import json
 
-VirusTotalKey = '8852e4a928620098fe0a2333dd4e9d58fa6c5b67d000eb785bbe544968c9f0aa'
+VirusTotalKey = ''
 url = 'https://www.virustotal.com/api/v3/search'
 
 FileName = sys.argv[1]
